@@ -1,0 +1,23 @@
+/* selectores y propiedades basicas */
+/* etiqueta */
+
+a {
+  color: blueviolet;
+}
+
+/*por clase*/
+.Contenedor {
+  background-color: beige;
+}
+/*Propiedades fundamentales*/
+p {
+  color: darkblue; /* Color del texto */
+  background-color: lightgray; /* Fondo del elemento */
+  font-size: 18px; /* Tamaño de fuente */
+  font-family: Arial, sans-serif; /* Tipo de letra */
+  text-align: center; /* Alineación del texto */
+  border: 2px solid black; /* Borde alrededor del elemento */
+  /*ancho de linea, estilo de linea, color de linea */
+  margin: 10px; /* Espacio externo, espacio desde el borde hacia afuera */
+  padding: 10px; /* Espacio interno, espacio desde el borde hacia adentro*/
+}
